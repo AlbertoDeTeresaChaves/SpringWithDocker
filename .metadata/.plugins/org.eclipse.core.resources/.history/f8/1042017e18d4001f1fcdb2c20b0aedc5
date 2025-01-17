@@ -1,0 +1,5 @@
+package com.example.SpringWithDocker.model;
+
+public class User {
+
+}

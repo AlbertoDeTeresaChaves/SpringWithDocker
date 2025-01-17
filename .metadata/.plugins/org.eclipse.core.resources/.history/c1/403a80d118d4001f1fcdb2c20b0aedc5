@@ -1,0 +1,5 @@
+package com.example.SpringWithDocker.repository;
+
+public interface UserRepository {
+
+}

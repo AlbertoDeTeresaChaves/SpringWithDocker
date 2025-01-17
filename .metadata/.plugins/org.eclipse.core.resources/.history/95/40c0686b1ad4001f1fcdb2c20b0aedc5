@@ -1,0 +1,5 @@
+package com.example.SpringWithDocker.controller;
+
+public class UserController {
+
+}

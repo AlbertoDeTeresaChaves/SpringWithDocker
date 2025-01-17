@@ -1,0 +1,5 @@
+package com.example.SpringWithDocker.config;
+
+public class WebConfig {
+
+}

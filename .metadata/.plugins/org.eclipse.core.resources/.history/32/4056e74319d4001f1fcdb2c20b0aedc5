@@ -1,0 +1,5 @@
+package com.example.SpringWithDocker.services;
+
+public class UserService {
+
+}

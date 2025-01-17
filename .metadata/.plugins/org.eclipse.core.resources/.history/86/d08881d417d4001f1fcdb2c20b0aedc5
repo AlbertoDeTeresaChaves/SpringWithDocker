@@ -1,0 +1,5 @@
+package com.example.SpringWithDockker.model;
+
+public class User {
+
+}
