@@ -1,0 +1,7 @@
+com\example\SpringWithDocker\model\User.class
+com\example\SpringWithDocker\repository\UserRepository.class
+com\example\SpringWithDocker\controller\UserController.class
+com\example\SpringWithDocker\config\WebConfig.class
+com\example\SpringWithDocker\services\UserServiceImpl.class
+com\example\SpringWithDocker\services\UserService.class
+com\example\SpringWithDocker\SpringWithDockerApplication.class
